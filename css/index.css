@@ -1,0 +1,24 @@
+#page {
+  width: 512px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#reset {
+  width: 5em;
+  margin-bottom: 8px;
+}
+
+#window {
+  background-color: white;
+  width: 512px;
+  height: 512px;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.testing {
+  background-color: red;
+  margin: 1px;
+  float: left;
+}
